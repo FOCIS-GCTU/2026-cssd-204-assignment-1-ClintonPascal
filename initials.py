@@ -3,7 +3,7 @@
 # Assignment Number: 2
 #
 # Name: Clinton Pascal
-# STUDENT ID:  2425404203
+# STUDENT ID: 2425404203
 # Email: 2425404203@live.gctu.edu.gh
 # Grader: Augustus Buckman
 #
