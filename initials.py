@@ -30,4 +30,5 @@ def main():
     print("...MM...MM...MM...**...CCCCCCCCCCCC...**...PPP............**")
     print()
 
+
 main()
